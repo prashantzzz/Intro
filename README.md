@@ -12,8 +12,7 @@ I have created many GUI Software using Python language including Voice Assistant
 
 Created MateFlix, a website for the hostellers that solved the hectic task of finding a suitable roommate in college.
 Having features to sort by year, programme with an add option to contact any of the sorted hostellers in search of a roommate.
-
-mateflix.onrender.com
+https://mateflix.onrender.com
 
 "Grinding for the day
   On which I can say
